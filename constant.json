@@ -1,0 +1,34 @@
+[
+  {
+    "img": "image1.avif",
+    "desc": "xl-tshirt",
+    "discprice": "800",
+    "orgprice": "1000",
+    "star": 4,
+    "review": "15"
+  },
+  {
+    "img": "image2.avif",
+    "desc": "Fromal Shirt for Men",
+    "discprice": "900",
+    "orgprice": "1000",
+    "star": 4,
+    "review": "14"
+  },
+  {
+    "img": "image3.avif",
+    "desc": "Casual Shirt for Men",
+    "discprice": "700",
+    "orgprice": "1000",
+    "star": 5,
+    "review": "13"
+  },
+  {
+    "img": "image4.avif",
+    "desc": "Polo Assn. T-Shirt for men",
+    "discprice": "650",
+    "orgprice": "1000",
+    "star": 4,
+    "review": "12"
+  }
+]
