@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "img": "/movie-1.jpg",
+        "title": "Pushpa 2"
+    },
+    {
+        "id": 2,
+        "img": "/movie-2.jpg",
+        "title": "The Secret Garden"
+    },
+    {
+        "id": 3,
+        "img": "/movie-3.jpg",
+        "title": "The Matrix Resurrections"
+    },
+    {
+        "id": 4,
+        "img": "/movie-4.jpg",
+        "title": "Spider-Man: No Way Home"
+    },
+    {
+        "id": 5,
+        "img": "/movie-5.jpg",
+        "title": "Cruella"
+    }
+]
