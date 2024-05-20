@@ -1,27 +1,164 @@
 [
     {
         "id": 1,
-        "img": "/movie-1.jpg",
-        "title": "Pushpa 2"
+        "img": "movie-1.jpg",
+        "title": "Pushpa 2",
+        "description": "Follow-up to the hit film, continuing the story of Pushpa's rise.",
+        "ratings": "6.5"
     },
     {
         "id": 2,
-        "img": "/movie-2.jpg",
-        "title": "The Secret Garden"
+        "img": "movie-2.jpg",
+        "title": "The Secret Garden",
+        "description":"Discover a hidden world of wonder and friendship in 'The Secret Garden' movie adaptation.",
+        "ratings": "5.6"
     },
     {
         "id": 3,
-        "img": "/movie-3.jpg",
-        "title": "The Matrix Resurrections"
+        "img": "movie-3.jpg",
+        "title": "The Matrix Resurrections",
+        "description":"Return to the Matrix in a mind-bending journey of awakening and revolution in 'The Matrix Resurrections'.",
+        "ratings":"5.7"
     },
     {
         "id": 4,
-        "img": "/movie-4.jpg",
-        "title": "Spider-Man: No Way Home"
+        "img": "movie-4.jpg",
+        "title": "Spider-Man: No Way Home",
+        "description":"Spider-Man faces multiverse chaos in a thrilling battle against foes from past and present in 'No Way Home'.",
+        "rating":"8.2"
     },
     {
         "id": 5,
-        "img": "/movie-5.jpg",
-        "title": "Cruella"
+        "img": "movie-5.jpg",
+        "title": "Cruella",
+        "description":"Experience the origin story of Disney's iconic villainess, Cruella de Vil, in a stylish and wickedly fun adventure.",
+        "rating":"7.3"
+    },
+  
+    {
+        "id": 6,
+        "img": "movie-6.jpg",
+        "title": "Fighter",
+        "description": "Elite IAF pilots form Air Dragons to confront threats.",
+        "ratings": "6.2"
+    },
+    {
+        "id": 7,
+        "img": "movie-7.jpg",
+        "title": "Kalki 2898 AD",
+        "description": "A contemporary manifestation of the Hindu deity Vishnu fights evil.",
+        "ratings": ""
+    },
+    {
+        "id": 8,
+        "img": "movie-8.jpg",
+        "title": "Welcome to the Jungle",
+        "description": "The third installment of the Welcome franchise with an ensemble cast.",
+        "ratings": ""
+    },
+    {
+        "id": 9,
+        "img": "movie-9.jpg",
+        "title": "Singham Again",
+        "description": "Ajay Devgn returns as Singham to fight crime in the third installment.",
+        "ratings": ""
+    },
+    {
+        "id": 10,
+        "img": "movie-10.jpg",
+        "title": "Bhool Bhulaiyaa 3",
+        "description": "Continuation of the horror-comedy franchise starring Kartik Aaryan.",
+        "ratings": ""
+    },
+    {
+        "id": 11,
+        "img": "movie-11.jpg",
+        "title": "Devara Part 1",
+        "description": "An epic saga set in coastal lands featuring N.T. Rama Rao Jr.",
+        "ratings": ""
+    },
+    {
+        "id": 12,
+        "img": "movie-12.jpg",
+        "title": "Bastar: The Naxal Story",
+        "description": "Based on real-life incidents of Naxals in Chhattisgarh.",
+        "ratings": "6.5"
+    },
+    {
+        "id": 13,
+        "img": "/movie-13.jpg",
+        "title": "Bagheera",
+        "description": "A gripping thriller about an intense investigation.",
+        "ratings": "3.3"
+    },
+    {
+        "id": 14,
+        "img": "movie-14.jpg",
+        "title": "Hanu-Man",
+        "description": "A protagonist gains the powers of Hanuman in a fantasy adventure.",
+        "ratings": "7.9"
+    },
+    {
+        "id": 15,
+        "img": "movie-15.jpg",
+        "title": "Indian 2",
+        "description": "Senapathy returns to fight corruption.",
+        "ratings": ""
+    },
+    {
+        "id": 16,
+        "img": "movie-16.jpg",
+        "title": "Yodha",
+        "description": "Soldiers try to save passengers after a hijacked plane's engine fails.",
+        "ratings": "5.8"
+    },
+    {
+        "id": 17,
+        "img": "movie-17.jpg",
+        "title": "Kanguva",
+        "description": "A warrior's story from 1678 and a modern girl's research intertwine.",
+        "ratings": ""
+    },
+    {
+        "id": 18,
+        "img": "movie-18.jpg",
+        "title": "The Greatest of All Time",
+        "description": "An explosive thriller inspired by the 2004 Moscow Metro bombing.",
+        "ratings": ""
+    },
+    {
+        "id": 19,
+        "img": "movie-19.jpg",
+        "title": "Jigra",
+        "description": "An emotional tale of courage and resilience.",
+        "ratings": ""
+    },
+    {
+        "id": 20,
+        "img": "movie-20.jpg",
+        "title": "Thangalaan",
+        "description": "Based on true events involving mine workers in Kolar Gold Fields.",
+        "ratings": ""
+    },
+    {
+        "id": 21,
+        "img": "movie-21.jpg",
+        "title": "Mr. & Mrs. Mahi",
+        "description": "A sports drama about a cricketer's journey.",
+        "ratings": ""
+    },
+    {
+        "id": 22,
+        "img": "movie-22.jpg",
+        "title": "Stree 2",
+        "description": "Sequel to the horror-comedy about a witch kidnapping men.",
+        "ratings": ""
+    },
+    {
+        "id": 23,
+        "img": "movie-23.jpg",
+        "title": "Chhava",
+        "description": "A historical drama based on the life of Chhatrapati Sambhaji Maharaj, Story of a brave warrior and his journey.",
+        "ratings": "8.1"
     }
 ]
